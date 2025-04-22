@@ -43,9 +43,19 @@
   bluesky: peterdesmet.com
   github: peterdesmet
 
-# - name: Elham Ebrahimi
-#   description: Wageningen University & Research (WUR)
-
+  name: Elham Ebrahimi
+  role: WP9 and WP6
+  image: https://avatars.githubusercontent.com/u/65140838?v=4
+  description: Wageningen University & Research (WUR)
+  email: elham.ebrahimi@wur.nl
+  website: https://www.wur.nl/en/persons/elham-ebrahimi.htm
+  Google Scholar: https://scholar.google.com/citations?user=Ae2Kd3MAAAAJ&hl=en&oi=sra
+  orcid: https://orcid.org/0000-0001-5191-9832
+  LinkedIn: https://www.linkedin.com/in/elham-ebrahimi-90b519b8/ 
+  researchgate: https://www.researchgate.net/profile/Elham-Ebrahimi-6
+  bluesky: https://bsky.app/profile/elhamebrahimi.bsky.social
+  github: https://github.com/spatialecology/
+  
 # - name: Floor Fleurke
 #   description: Tilburg University
 
